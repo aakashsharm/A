@@ -1,4 +1,3 @@
-cd C:/Users/aakashsharma/Desktop/github/command.bat
 
 git status
 
